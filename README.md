@@ -3,7 +3,7 @@ Designing a Tool-Assisted Speedrun of Kuru Kuru Kururin (GBA)
 
 Emulator: Bizhawk 2.3.0
 
-Core: mGBA
+Core: mGBA 0.6.3
 
 ******************************************
 
