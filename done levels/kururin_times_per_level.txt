@@ -1,0 +1,39 @@
+[1] fastest strategy (matt="cheat bot" video | oob=reach an OOB goal zone)
+
+frame 0=select stage on world map
+[2] time at Helirin control
+[3] time when Kururin looks happy (=when IGT stops)
+_____________________________
+              |[1]   |[2]|[3]|
+--------------|------|---|---|
+Grasslands 1  |matt  |   |217|
+Grasslands 2  |oob   |   |169|
+Grasslands 3  |matt  |   |   |
+Ocean 1       |oob   |   |183|
+Ocean 2       |matt  |   |   |
+Ocean 3       |oob   |   |428|
+Jungle 1      |oob   |   |170|
+Jungle 2      |oob   |   |167|
+Jungle 3      |matt  |   |   |
+Cake Land 1   |oob   |   |216|
+Cake Land 2   |matt  |   |   |
+Cake Land 3   |oob   |   |337|
+Cave 1        |matt  |   |136|
+Cave 2        |oob   |   |380|
+Cave 3        |oob   |   |260|
+Cloud Land 1  |matt  |   |   |
+Cloud Land 2  |oob   |   |303|
+Cloud Land 3  |matt  |   |   |
+Star Land 1   |matt  |   |   |
+Star Land 2   |oob   |   |194|
+Star Land 3   |matt  |   |   |
+Ice Land 1    |matt  |   |   |
+Ice Land 2    |matt  |   |   |
+Ice Land 3    |matt  |   |   |
+Machine Land 1|oob   |   |296|
+Machine Land 2|oob   |   |264|
+Machine Land 3|oob   |   |608|
+Ghost Castle 1|oob   |   |614|
+Ghost Castle 2|"matt"|   |217|
+Ghost Castle 3|oob   |   |399|
+--------------|------|---|---|
