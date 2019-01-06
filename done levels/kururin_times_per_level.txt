@@ -9,7 +9,7 @@ _____________________________
 Grasslands 1  |matt  |68 |217|
 Grasslands 2  |oob   |42 |154|
 Grasslands 3  |matt  |48 |   |
-Ocean 1       |oob   |68 |183|
+Ocean 1       |oob   |68 |171|
 Ocean 2       |matt  |47 |   |
 Ocean 3       |oob   |48 |428|
 Jungle 1      |oob   |44 |170|
