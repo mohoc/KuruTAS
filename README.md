@@ -1,9 +1,9 @@
 # KuruTAS
 Designing a Tool-Assisted Speedrun of Kuru Kuru Kururin (GBA, Europe)
 
-Emulator: Bizhawk 2.3.0
+Emulator: Bizhawk 2.3.1
 
-Core: mGBA 0.6.3
+Core: mGBA
 
 ******************************************
 
