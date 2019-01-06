@@ -10,7 +10,7 @@ Grasslands 2  |oob   | x |+|
 Grasslands 3  |matt  |   | |
 Ocean 1       |oob   | x |+|
 Ocean 2       |matt  |   | |
-Ocean 3       |oob   | x | |
+Ocean 3       |oob   | x |+|
 Jungle 1      |oob   | x | |
 Jungle 2      |oob   |(x)| |might do more intentional hits to push back to horizontal when reaching OOB goal zone
 Jungle 3      |matt  |   | |
