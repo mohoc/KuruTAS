@@ -1,0 +1,153 @@
+Axes:
+ ----> X
+|
+|
+v
+Y
+******************************************
+Notation:
+-- X(pixel,subpixel) Y(pixel,subpixel)
+-- "R2": R = direction in {U,L,D,R,UL,UR,DL,DR}
+         2 = speed in {0,1,2} (=number of held buttons in {A,B})
+******************************************
+Movement:
+-- R0: X+1,128 (2*R0 = R2)
+-- R1: X+2, 64 (4*R1 = 3*R2, 2*R1 = R0+R2)
+-- R2: X+3,  0
+
+note: same for directions L,U,D
+*
+-- DR0: 2-cycle
+        X+1, 15 Y+1, 15
+        X+1, 16 Y+1, 16 (2*DR0 = DR2)
+-- DR1: 4-cycle
+        X+1,151 Y+1,151
+        X+1,151 Y+1,151
+        X+1,151 Y+1,151
+        X+1,152 Y+1,152 (4*DR1 = 3*DR2)
+/!\ X and Y could be desynced
+-- DR2: X+2, 31 Y+2, 31
+
+note: same for directions UR,DL,UL
+*
+-- DR0+UR0: X+2,31 (2*DR0-UR0 = DR2-UR2)
+-- DR1+UR1: 2-cycle
+            X+3,46
+            X+3,47 (4*DR1-UR1 = 3*DR2-UR2)
+-- DR2+UR2: X+4,62
+
+note: same for combinations DL+UL,DR+DL,UR+UL
+******************************************
+Rotation:
+-- 65536 possible values(=2**16bits=2byte)
+-- starts at 0
+-- normal behaviour: +182 every frame (=14*13)
+-- offset by -16 every 360°/360 frames (=6.00s)
+   => offset by -2 every 45°
+
+-- rotating clockwise
+   -- when pushed counterclockwise:
+        speed: -933,-842,-751,-660,-569,-478,-387,
+               -296,-205,-114, -23, +68,+159,+182
+        => +91 every frame, except last (+23)
+      => offset value: -40 frames, -117 (=-9*13)
+      => after 14 hits without interruption:
+       value back to the same modulus by 182 (offset: -569 frames)
+   -- when pushed clockwise:
+        speed: +933,+842,+751,+660,+569,+478,+387,
+               +296,+205,+182
+        => -91 every frame, except last (-23)
+      => offset value: +19 frames, +25
+-- rotating counterclockwise
+     same behaviour
+
+-- multiple hits with interruption:
+     no stacking: speed value set to -/+933 at each new hit
+-- sometimes, collision is messy and speed is set to +/-933 instead of -/+933
+******************************************
+Method to change X pixel with minor impact on X subpixel:
+DL2+UL2 [-4, 62]
+R1      [+2, 64]
+R2      [+3,  0]
+=> [+1,  2] using 4 frames
+
+note: with reverse moves: [-1,  2] using 4 frames
+note: there is a similar method for Y
+******************************************
+Methods to adjust X subpixel:
+DL0+UL0 [-2,31]
+R1      [+2,64]
+=> [+0, 33] using 3 frames
+*
+DR1+UR1 [+3,46]
+L2      [-3, 0]
+=> [+0, 46] using 3 frames
+*
+DL2+UL2 [-4, 62]
+2*R1    [+4,128]
+=> [+0, 66] using 4 frames
+*
+DL2+UL2 [-4, 62]
+DR1+UR1 [+3, 46]
+R0      [+1,128]
+=> [+0,112] using 5 frames
+*
+DR0+UR0 [+2, 31]
+L0      [-1,128]
+=> [+0,159] using 3 frames
+
+note: they can be reversed + similar methods for Y
+******************************************
+Levels with weird OOB content:
+Jungle 1
+Jungle 2
+Cave 2
+Cave 3
+Cloud Land 1
+Cloud Land 2
+Machine Land 1
+Ghost Castle 1
+******************************************
+Starting info:
+
+1 direction of the opening
+2 starting clockwise?
+3 starting positions in levels (=> all multiples of 8)
+
+              |1|2  |3
+Grasslands 1  |R|Yes|X(136,0) Y(192,0)|
+Grasslands 2  |R|Yes|X( 80,0) Y(440,0)|
+Grasslands 3  |U|Yes|X(128,0) Y(552,0)|
+Ocean 1       |U|Yes|X(128,0) Y(240,0)|
+Ocean 2       |L|Yes|X(224,0) Y(256,0)|
+Ocean 3       |R|Yes|X(128,0) Y(256,0)|
+Jungle 1      |D|Yes|X(144,0) Y(272,0)|
+Jungle 2      |R|Yes|X( 80,0) Y(328,0)|
+Jungle 3      |D|No |X( 80,0) Y(512,0)|
+Cake Land 1   |R|Yes|X( 88,0) Y(128,0)|
+Cake Land 2   |L|No |X(536,0) Y(320,0)|
+Cake Land 3   |R|Yes|X(248,0) Y(160,0)|
+Cave 1        |R|No |X(184,0) Y(312,0)|
+Cave 2        |R|No |X(864,0) Y(800,0)|
+Cave 3        |U|Yes|X(248,0) Y(384,0)|
+Cloud Land 1  |R|No |X(128,0) Y(392,0)|
+Cloud Land 2  |R|Yes|X(232,0) Y(232,0)|
+Cloud Land 3  |D|Yes|X(472,0) Y(160,0)|
+Star Land 1   |U|Yes|X(160,0) Y(488,0)|
+Star Land 2   |R|Yes|X(200,0) Y(256,0)|
+Star Land 3   |U|No |X(560,0) Y(616,0)|
+Ice Land 1    |U|Yes|X(248,0) Y(552,0)|
+Ice Land 2    |U|No |X(440,0) Y(560,0)|
+Ice Land 3    |U|Yes|X(608,0) Y(432,0)|
+Machine Land 1|R|No |X( 96,0) Y(400,0)|
+Machine Land 2|R|Yes|X(112,0) Y(128,0)|
+Machine Land 3|R|Yes|X(112,0) Y(208,0)|
+Ghost Castle 1|U|Yes|X(136,0) Y(944,0)|
+Ghost Castle 2|R|Yes|X(440,0) Y(648,0)|
+Ghost Castle 3|U|No |X(336,0) Y(768,0)|
+
+Some statistics:
+Yes: 21|No: 9
+R: 15|U: 10|D: 3|L: 2
+R Yes: 11|U Yes: 7|D Yes: 2|L Yes: 1
+R No: 4|U No: 3|D No: 1|L No: 1
