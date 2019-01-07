@@ -32,6 +32,6 @@ Ice Land 3    |matt  |   | |
 Machine Land 1|oob   | x | |
 Machine Land 2|oob   | x | |might be slightly improved with a better idea about when to take the final damage
 Machine Land 3|oob   | x | |there may be a way to reach upper-left goal zone? (3s away from start)
-Ghost Castle 1|oob   |(x)| |slow beginning (waited for a 180° to adjust position)
+Ghost Castle 1|oob   | x |+|
 Ghost Castle 2|"matt"| x | |TODO: way to clip in corners
 Ghost Castle 3|oob   |(x)| |TODO: investigate better strategies

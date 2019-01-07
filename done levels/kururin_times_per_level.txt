@@ -33,7 +33,7 @@ Ice Land 3    |matt  |55 |   |
 Machine Land 1|oob   |70 |296|
 Machine Land 2|oob   |56 |264|
 Machine Land 3|oob   |57 |608|
-Ghost Castle 1|oob   |81 |614|
+Ghost Castle 1|oob   |81 |412|
 Ghost Castle 2|"matt"|61 |217|
 Ghost Castle 3|oob   |61 |399|
 --------------|------|---|---|
