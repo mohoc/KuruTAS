@@ -27,7 +27,7 @@ Star Land 1   |matt  |   | |
 Star Land 2   |oob   | x | |
 Star Land 3   |matt  |   | |
 Ice Land 1    |matt  |   | |
-Ice Land 2    |matt  |   | |
+Ice Land 2    |matt  | x |+|
 Ice Land 3    |matt  |   | |
 Machine Land 1|oob   | x | |
 Machine Land 2|oob   | x | |might be slightly improved with a better idea about when to take the final damage

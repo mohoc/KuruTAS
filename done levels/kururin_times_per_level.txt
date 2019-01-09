@@ -28,7 +28,7 @@ Star Land 1   |matt  |72 |   |
 Star Land 2   |oob   |41 |194|
 Star Land 3   |matt  |51 |   |
 Ice Land 1    |matt  |75 |   |
-Ice Land 2    |matt  |48 |   |
+Ice Land 2    |matt  |48 |109|
 Ice Land 3    |matt  |55 |   |
 Machine Land 1|oob   |70 |296|
 Machine Land 2|oob   |56 |264|
