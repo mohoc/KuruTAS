@@ -24,7 +24,7 @@ Cloud Land 1  |matt  |   | |
 Cloud Land 2  |oob   | x | |there might be a faster way to go OOB with two hearts?
 Cloud Land 3  |matt  |   | |
 Star Land 1   |matt  |   | |
-Star Land 2   |oob   | x | |
+Star Land 2   |oob   | x |+|
 Star Land 3   |matt  |   | |
 Ice Land 1    |matt  |   | |
 Ice Land 2    |matt  | x |+|

@@ -25,7 +25,7 @@ Cloud Land 1  |matt  |78 |   |
 Cloud Land 2  |oob   |51 |303|
 Cloud Land 3  |matt  |57 |   |
 Star Land 1   |matt  |72 |   |
-Star Land 2   |oob   |41 |194|
+Star Land 2   |oob   |41 |181|
 Star Land 3   |matt  |51 |   |
 Ice Land 1    |matt  |75 |   |
 Ice Land 2    |reg   |48 |109|
