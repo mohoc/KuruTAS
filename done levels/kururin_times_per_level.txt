@@ -12,7 +12,7 @@ Grasslands 3  |matt  |48 |   |
 Ocean 1       |oob   |68 |171|
 Ocean 2       |matt  |47 |   |
 Ocean 3       |oob   |48 |414|
-Jungle 1      |oob   |44 |170|
+Jungle 1      |oob   |74 |243|
 Jungle 2      |oob   |44 |157|
 Jungle 3      |matt  |48 |   |
 Cake Land 1   |oob   |68 |216|
