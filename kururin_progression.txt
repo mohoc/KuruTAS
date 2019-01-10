@@ -2,36 +2,36 @@
 2 done? ("x"=done | "(x)"=done but probably improvable | " "=not done)
 3 new early clip done?("+"=yes | " "=no)
 4 comments
-_____________________________
-              |1     |2  |3|4
---------------|------|---|-|-
-Grasslands 1  |matt  | x | |
-Grasslands 2  |oob   | x |+|
-Grasslands 3  |matt  |   | |
-Ocean 1       |oob   | x |+|
-Ocean 2       |matt  |   | |
-Ocean 3       |oob   | x |+|
-Jungle 1      |oob   | x |+|
-Jungle 2      |oob   | x |+|
-Jungle 3      |matt  |   | |
-Cake Land 1   |oob   | x |+|
-Cake Land 2   |matt  |   | |
-Cake Land 3   |oob   | x |+|TODO: way to clip in corners
-Cave 1        |matt  | x | |
-Cave 2        |oob   | x | |
-Cave 3        |oob   | x | |
-Cloud Land 1  |matt  |   | |
-Cloud Land 2  |oob   | x | |there might be a faster way to go OOB with two hearts?
-Cloud Land 3  |matt  |   | |
-Star Land 1   |matt  |   | |
-Star Land 2   |oob   | x |+|
-Star Land 3   |matt  |   | |
-Ice Land 1    |matt  |   | |
-Ice Land 2    |matt  | x |+|
-Ice Land 3    |matt  |   | |
-Machine Land 1|oob   | x | |
-Machine Land 2|oob   | x | |might be slightly improved with a better idea about when to take the final damage
-Machine Land 3|oob   | x |+|
-Ghost Castle 1|oob   | x |+|
-Ghost Castle 2|reg   | x | |TODO: way to clip in corners
-Ghost Castle 3|oob   |(x)| |TODO: investigate better strategies
+___________________________
+              |1   |2  |3|4
+--------------|----|---|-|-
+Grasslands 1  |matt| x | |
+Grasslands 2  |oob | x |+|
+Grasslands 3  |matt|   | |
+Ocean 1       |oob | x |+|
+Ocean 2       |matt|   | |
+Ocean 3       |oob | x |+|
+Jungle 1      |oob | x |+|
+Jungle 2      |oob | x |+|
+Jungle 3      |matt|   | |
+Cake Land 1   |oob | x |+|
+Cake Land 2   |matt|   | |
+Cake Land 3   |oob | x |+|TODO: way to clip in corners
+Cave 1        |matt| x | |
+Cave 2        |oob | x | |
+Cave 3        |oob | x | |
+Cloud Land 1  |matt|   | |
+Cloud Land 2  |oob | x | |there might be a faster way to go OOB with two hearts?
+Cloud Land 3  |matt|   | |
+Star Land 1   |matt|   | |
+Star Land 2   |oob | x |+|
+Star Land 3   |matt|   | |
+Ice Land 1    |matt|   | |
+Ice Land 2    |reg | x |+|
+Ice Land 3    |matt|   | |
+Machine Land 1|oob | x | |
+Machine Land 2|oob | x | |
+Machine Land 3|oob | x |+|
+Ghost Castle 1|oob | x |+|
+Ghost Castle 2|reg | x | |TODO: way to clip in corners
+Ghost Castle 3|oob |(x)| |TODO: investigate better strategies
