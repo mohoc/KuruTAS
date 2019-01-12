@@ -23,7 +23,7 @@ Cave 1        |matt|72 |136|2.27|
 Cave 2        |oob |55 |371|6.18|
 Cave 3        |oob |48 |210|3.50|
 Cloud Land 1  |matt|78 |   |    |
-Cloud Land 2  |oob |51 |303|5.05|
+Cloud Land 2  |oob |51 |277|4.62|
 Cloud Land 3  |matt|57 |   |    |
 Star Land 1   |matt|72 |   |    |
 Star Land 2   |oob |41 |181|3.02|
