@@ -19,7 +19,7 @@ Cake Land 2   |matt|   | |
 Cake Land 3   |oob | x |+|TODO: way to clip in corners
 Cave 1        |matt| x | |
 Cave 2        |oob | x |+|
-Cave 3        |oob | x | |
+Cave 3        |oob | x |+|
 Cloud Land 1  |matt|   | |
 Cloud Land 2  |oob | x | |there might be a faster way to go OOB with two hearts?
 Cloud Land 3  |matt|   | |
