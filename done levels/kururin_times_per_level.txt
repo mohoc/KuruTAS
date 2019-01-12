@@ -1,40 +1,79 @@
 [1] fastest strategy (matt="cheat bot" video | oob=reach an OOB goal zone)
 
+
+
 frame 0=select stage on world map
+
 [2] time at Helirin control
+
 [3] time when Kururin looks happy (=when IGT stops)
+
 [4] same time as [3] in seconds (rounded)
+
 _________________________________
+
               |[1] |[2]|[3]|[4] |
+
 --------------|----|---|---|----|
+
 Grasslands 1  |matt|68 |217|3.62|
+
 Grasslands 2  |oob |42 |154|2.57|
+
 Grasslands 3  |matt|48 |   |    |
+
 Ocean 1       |oob |68 |171|2.85|
+
 Ocean 2       |matt|47 |   |    |
+
 Ocean 3       |oob |48 |414|6.90|
+
 Jungle 1      |oob |74 |243|4.05|
+
 Jungle 2      |oob |44 |157|2.62|
+
 Jungle 3      |matt|48 |   |    |
+
 Cake Land 1   |oob |68 |216|3.60|
+
 Cake Land 2   |matt|55 |   |    |
+
 Cake Land 3   |oob |61 |337|5.62|
+
 Cave 1        |matt|72 |136|2.27|
-Cave 2        |oob |55 |380|6.33|
+
+Cave 2        |oob |55 |371|6.18|
+
 Cave 3        |oob |48 |260|4.33|
+
 Cloud Land 1  |matt|78 |   |    |
+
 Cloud Land 2  |oob |51 |303|5.05|
+
 Cloud Land 3  |matt|57 |   |    |
+
 Star Land 1   |matt|72 |   |    |
+
 Star Land 2   |oob |41 |181|3.02|
+
 Star Land 3   |matt|51 |   |    |
+
 Ice Land 1    |matt|75 |   |    |
+
 Ice Land 2    |reg |48 |109|1.82|
+
 Ice Land 3    |matt|55 |   |    |
+
 Machine Land 1|oob |70 |296|4.93|
+
 Machine Land 2|oob |56 |264|4.40|
+
 Machine Land 3|oob |57 |579|9.65|
+
 Ghost Castle 1|oob |81 |412|6.87|
+
 Ghost Castle 2|reg |61 |217|3.62|
+
 Ghost Castle 3|oob |61 |399|6.65|
+
 --------------|----|---|---|----|
