@@ -34,4 +34,4 @@ Machine Land 2|oob | x |+|
 Machine Land 3|oob | x |+|
 Ghost Castle 1|oob | x |+|
 Ghost Castle 2|reg | x |+|TODO: way to clip in corners
-Ghost Castle 3|oob |(x)| |TODO: investigate better strategies
+Ghost Castle 3|oob | x |+|there might be faster strategies
