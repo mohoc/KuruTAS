@@ -36,6 +36,6 @@ Machine Land 1|oob |70 |292|4.87|3.70|
 Machine Land 2|oob |56 |253|4.22|3.28|
 Machine Land 3|oob |57 |579|9.65|8.70|
 Ghost Castle 1|oob |81 |412|6.87|5.52|
-Ghost Castle 2|reg |61 |217|3.62|2.60|
+Ghost Castle 2|reg |61 |205|3.42|2.40|
 Ghost Castle 3|oob |61 |399|6.65|5.63|
 --------------|----|---|---|----|----|
