@@ -30,7 +30,7 @@ Ice Land 1    |matt|   | |
 Ice Land 2    |reg | x |+|
 Ice Land 3    |matt|   | |
 Machine Land 1|oob | x |+|
-Machine Land 2|oob | x | |
+Machine Land 2|oob | x |+|
 Machine Land 3|oob | x |+|
 Ghost Castle 1|oob | x |+|
 Ghost Castle 2|reg | x | |TODO: way to clip in corners
