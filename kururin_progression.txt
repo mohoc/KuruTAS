@@ -13,22 +13,22 @@ Ocean 2       |matt|   | |
 Ocean 3       |oob | x |+|
 Jungle 1      |oob | x |+|
 Jungle 2      |oob | x |+|
-Jungle 3      |matt|   | |
+Jungle 3      |matt| x | |
 Cake Land 1   |oob | x |+|
-Cake Land 2   |matt|   | |
+Cake Land 2   |matt| x | |
 Cake Land 3   |oob | x |+|TODO: way to clip in corners
 Cave 1        |matt| x | |
 Cave 2        |oob | x |+|
 Cave 3        |oob | x |+|
-Cloud Land 1  |matt|   | |
+Cloud Land 1  |matt| x | |
 Cloud Land 2  |oob | x |+|there might be a faster way to go OOB with two hearts?
-Cloud Land 3  |matt|   | |
+Cloud Land 3  |matt| x | |
 Star Land 1   |matt|   | |
 Star Land 2   |oob | x |+|
-Star Land 3   |matt|   | |
-Ice Land 1    |matt|   | |
+Star Land 3   |matt| x | |
+Ice Land 1    |matt| x | |
 Ice Land 2    |reg | x |+|
-Ice Land 3    |matt|   | |
+Ice Land 3    |matt| x | |
 Machine Land 1|oob | x |+|
 Machine Land 2|oob | x |+|
 Machine Land 3|oob | x |+|
