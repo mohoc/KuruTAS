@@ -1,5 +1,5 @@
 Expected total time: 17695 frames = 4:59.42
-(from first input(=skip intro cutscene) to last input(=end of Ghost Castle 3)
+(from first input(=skip intro cutscene) to last input(=end of Ghost Castle 3))
 
 Transitions:
   - beginning (w/ guest file): 551 frames = 9.18s
@@ -48,4 +48,4 @@ Machine Land 3|mohoc|oob|57 |579|9.65|8.70|
 Ghost Castle 1|mohoc|oob|81 |412|6.87|5.52|
 Ghost Castle 2|mohoc|reg|61 |205|3.42|2.40|
 Ghost Castle 3|mohoc|oob|61 |394|6.57|5.55|
---------------|----|---|---|----|----|----|
+--------------|-----|---|---|---|----|----|
