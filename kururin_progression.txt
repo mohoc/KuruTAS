@@ -7,7 +7,7 @@ ___________________________
 --------------|----|---|-|-
 Grasslands 1  |matt| x | |
 Grasslands 2  |oob | x |+|
-Grasslands 3  |matt|   | |
+Grasslands 3  |matt| x | |
 Ocean 1       |oob | x |+|
 Ocean 2       |matt|   | |
 Ocean 3       |oob | x |+|
