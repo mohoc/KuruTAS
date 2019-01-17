@@ -9,7 +9,7 @@ Grasslands 1  |matt| x | |
 Grasslands 2  |oob | x |+|
 Grasslands 3  |matt| x | |
 Ocean 1       |oob | x |+|
-Ocean 2       |matt|   | |
+Ocean 2       |matt|(x)| |
 Ocean 3       |oob | x |+|
 Jungle 1      |oob | x |+|
 Jungle 2      |oob | x |+|
@@ -23,7 +23,7 @@ Cave 3        |oob | x |+|
 Cloud Land 1  |matt| x | |
 Cloud Land 2  |oob | x |+|there might be a faster way to go OOB with two hearts?
 Cloud Land 3  |matt| x | |
-Star Land 1   |matt|   | |
+Star Land 1   |matt|(x)| |
 Star Land 2   |oob | x |+|
 Star Land 3   |matt| x | |
 Ice Land 1    |matt| x | |
