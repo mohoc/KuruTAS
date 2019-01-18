@@ -1,6 +1,17 @@
-Expected total time: 17695 frames = 4:59.42
+******************************************
+Any% Normal v1:
+
+Expected total time: 17965 frames = 4:59.42
 (from first input(=skip intro cutscene) to last input(=end of Ghost Castle 3))
 
+Actual total time: 18345 frames = 5:05.75
+Reasons:
+  - beginning at GB intro instead of first input: +345
+  - filename "KuruTAS": +21
+  - Ocean 2 and Star Land 1 slightly slower: +14
+
+With speedrun.com timing: 17876 frames = 4:57.93
+******************************************
 Transitions:
   - beginning (w/ guest file): 551 frames = 9.18s
     (if start after GB intro: 206 frames = 3.43s)
