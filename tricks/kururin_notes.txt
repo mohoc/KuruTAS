@@ -65,7 +65,7 @@ Rotation:
      no stacking: speed value set to -/+933 at each new hit
 -- sometimes, collision is messy and speed is set to +/-933 instead of -/+933
 ******************************************
-Method to change X pixel with minor impact on X subpixel:
+Methods to change X pixel with minor impact on X subpixel:
 DL2+UL2 [-4, 62]
 R1      [+2, 64]
 R2      [+3,  0]
@@ -73,6 +73,10 @@ R2      [+3,  0]
 
 note: with reverse moves: [-1,  2] using 4 frames
 note: there is a similar method for Y
+*
+DR2+UR2 [+4, 62]
+L1      [=2, 64]
+=> [+1,254] using 3 frames
 ******************************************
 Methods to adjust X subpixel:
 DL0+UL0 [-2,31]
@@ -98,15 +102,12 @@ L0      [-1,128]
 
 note: they can be reversed + similar methods for Y
 ******************************************
-Levels with weird OOB content:
-Jungle 1
-Jungle 2
-Cave 2
-Cave 3
-Cloud Land 1
-Cloud Land 2
-Machine Land 1
-Ghost Castle 1
+Transitions:
+  - beginning (w/ guest file): 551 frames = 9.18s
+    (if start after GB intro: 206 frames = 3.43s)
+  - level 1/2: 324 frames = 5.40s (x20)
+  - level 3 (no bird): 371 frames = 6.18s (x9)
+  - level 3 (w/ bird): 416 frames = 6.93s
 ******************************************
 Starting info:
 
