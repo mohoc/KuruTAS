@@ -1,37 +1,63 @@
-1 fastest strategy (matt="cheat bot" video | oob=reach an OOB goal zone | reg=regular goal zone-and not matt)
-2 done? ("x"=done | "(x)"=done but probably improvable | " "=not done)
-3 new early clip done?("+"=yes | " "=no)
-4 comments
-___________________________
-              |1   |2  |3|4
---------------|----|---|-|-
-Grasslands 1  |matt| x | |
-Grasslands 2  |oob | x |+|
-Grasslands 3  |matt| x | |
-Ocean 1       |oob | x |+|
-Ocean 2       |matt|(x)| |
-Ocean 3       |oob | x |+|
-Jungle 1      |oob | x |+|
-Jungle 2      |oob | x |+|
-Jungle 3      |matt| x | |
-Cake Land 1   |oob | x |+|
-Cake Land 2   |matt| x | |
-Cake Land 3   |oob | x |+|TODO: way to clip in corners
-Cave 1        |matt| x | |
-Cave 2        |oob | x |+|
-Cave 3        |oob | x |+|
-Cloud Land 1  |matt| x | |
-Cloud Land 2  |oob | x |+|there might be a faster way to go OOB with two hearts?
-Cloud Land 3  |matt| x | |
-Star Land 1   |matt|(x)| |
-Star Land 2   |oob | x |+|
-Star Land 3   |matt| x | |
-Ice Land 1    |matt| x | |
-Ice Land 2    |reg | x |+|
-Ice Land 3    |matt| x | |
-Machine Land 1|oob | x |+|
-Machine Land 2|oob | x |+|
-Machine Land 3|oob | x |+|
-Ghost Castle 1|oob | x |+|
-Ghost Castle 2|reg | x |+|TODO: way to clip in corners
-Ghost Castle 3|oob | x |+|there might be faster strategies
+Best Ending (bird levels)
+
+[0] author of the strategy
+[1] strategy (reg=regular goal zone | oob=reach an OOB goal zone)
+[2] done? ("x"=done | "(x)"=done but probably improvable | " "=not done)
+[3] comments
+________________________________
+              |[0]  |[1]|[2]|[3]
+--------------|-----|---|---|---
+Grasslands 3  |mohoc|reg|(x)|
+Ocean 3       |     |   |   |
+Jungle 3      |mohoc|reg|(x)|
+Cake Land 3   |     |   |   |
+Cave 3        |Matt |reg|(x)|might try to use the OOB goal zone instead
+Cloud Land 3  |mohoc|reg|(x)|the end is improvable
+Star Land 3   |mohoc|oob|(x)|
+Ice Land 3    |     |   |   |
+Machine Land 3|     |   |   |
+Ghost Castle 3|     |   |   |
+
+
+******************************************
+
+Any%
+
+[0] author of the strategy
+[1] strategy (reg=regular goal zone | oob=reach an OOB goal zone)
+[2] done? ("x"=done | "(x)"=done but probably improvable | " "=not done)
+[3] new early clip done?("+"=yes | " "=no)
+[4] comments
+______________________________________
+              |[0]    |[1]|[2]|[3]|[4]
+--------------|-------|---|---|---|---
+Grasslands 1  |E-Sh4rk|reg| x |   |
+Grasslands 2  |mohoc  |oob| x | + |
+Grasslands 3  |Matt   |reg| x |   |
+Ocean 1       |mohoc  |oob| x | + |
+Ocean 2       |Matt   |reg|(x)|   |
+Ocean 3       |mohoc  |oob| x | + |
+Jungle 1      |mohoc  |oob| x | + |
+Jungle 2      |mohoc  |oob| x | + |
+Jungle 3      |Matt   |reg| x |   |
+Cake Land 1   |mohoc  |oob| x | + |
+Cake Land 2   |Matt   |reg| x |   |
+Cake Land 3   |mohoc  |oob| x | + |TODO: way to clip in corners
+Cave 1        |Matt   |reg| x |   |
+Cave 2        |mohoc  |oob| x | + |
+Cave 3        |mohoc  |oob| x | + |
+Cloud Land 1  |Matt   |reg| x |   |
+Cloud Land 2  |mohoc  |oob| x | + |there might be a faster way to go OOB with two hearts?
+Cloud Land 3  |Matt   |reg| x |   |
+Star Land 1   |Matt   |reg|(x)|   |
+Star Land 2   |mohoc  |oob| x | + |
+Star Land 3   |Matt   |reg| x |   |
+Ice Land 1    |Matt   |reg| x |   |
+Ice Land 2    |mohoc  |reg| x | + |
+Ice Land 3    |Matt   |reg| x |   |
+Machine Land 1|mohoc  |oob| x | + |
+Machine Land 2|mohoc  |oob| x | + |
+Machine Land 3|mohoc  |oob| x | + |
+Ghost Castle 1|mohoc  |oob| x | + |
+Ghost Castle 2|mohoc  |reg| x | + |TODO: way to clip in corners
+Ghost Castle 3|mohoc  |oob| x | + |there might be faster strategies
