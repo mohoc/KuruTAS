@@ -15,7 +15,7 @@ Cave 3        |Matt |reg|(x)|might try to use the OOB goal zone instead
 Cloud Land 3  |mohoc|reg|(x)|the end is improvable
 Star Land 3   |mohoc|oob|(x)|
 Ice Land 3    |     |   |   |
-Machine Land 3|     |   |   |
+Machine Land 3|mohoc|reg|(x)|
 Ghost Castle 3|     |   |   |
 
 
