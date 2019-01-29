@@ -8,7 +8,7 @@ ________________________________
               |[0]  |[1]|[2]|[3]
 --------------|-----|---|---|---
 Grasslands 3  |mohoc|reg|(x)|
-Ocean 3       |     |   |   |
+Ocean 3       |mohoc|reg|(x)|
 Jungle 3      |mohoc|reg|(x)|
 Cake Land 3   |     |   |   |
 Cave 3        |Matt |reg|(x)|might try to use the OOB goal zone instead
