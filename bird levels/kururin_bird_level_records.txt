@@ -17,7 +17,7 @@ Cake Land 3   |     |   |61 |   |     |     |4.60
 Cave 3        |Matt |reg|48 |409| 6.82| 6.02|2.70
 Cloud Land 3  |mohoc|reg|57 |532| 8.87| 7.92|5.82
 Star Land 3   |mohoc|oob|51 |494| 8.23| 7.38|2.83
-Ice Land 3    |     |   |55 |   |     |     |3.80
+Ice Land 3    |mohoc|oob|55 |544| 9.07| 8.15|3.80
 Machine Land 3|mohoc|reg|57 |991|16.52|15.57|8.70
 Ghost Castle 3|     |   |61 |   |     |     |5.55
 --------------|-----|---|---|---|-----|-----|----
