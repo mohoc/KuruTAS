@@ -10,7 +10,7 @@ ________________________________
 Grasslands 3  |mohoc|reg|(x)|
 Ocean 3       |mohoc|reg|(x)|
 Jungle 3      |mohoc|reg|(x)|
-Cake Land 3   |     |   |   |
+Cake Land 3   |mohoc|reg| x |
 Cave 3        |Matt |reg|(x)|might try to use the OOB goal zone instead
 Cloud Land 3  |mohoc|reg|(x)|the end is improvable
 Star Land 3   |mohoc|oob|(x)|
