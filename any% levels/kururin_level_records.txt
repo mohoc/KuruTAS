@@ -13,7 +13,7 @@ Grasslands 1  |E-Sh4rk|reg|68 |185|3.08|1.95|
 Grasslands 2  |mohoc  |oob|42 |154|2.57|1.87|
 Grasslands 3  |Matt   |reg|48 |128|2.13|1.33|
 Ocean 1       |mohoc  |oob|68 |171|2.85|1.72|
-Ocean 2       |Matt   |reg|47 |209|3.48|2.70|
+Ocean 2       |Matt   |reg|47 |203|3.38|2.60|
 Ocean 3       |mohoc  |oob|48 |414|6.90|6.10|
 Jungle 1      |mohoc  |oob|74 |243|4.05|2.82|
 Jungle 2      |mohoc  |oob|44 |157|2.62|1.88|
