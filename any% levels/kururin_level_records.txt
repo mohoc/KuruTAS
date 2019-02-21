@@ -9,7 +9,7 @@ frame 0=select stage on world map
 _____________________________________________
               |[0]    |[1]|[2]|[3]|[4] |[5] |
 --------------|-------|---|---|---|----|----|
-Grasslands 1  |E-Sh4rk|reg|68 |185|3.08|1.95|
+Grasslands 1  |E-Sh4rk|reg|68 |182|3.03|1.90|
 Grasslands 2  |mohoc  |oob|42 |154|2.57|1.87|
 Grasslands 3  |mohoc  |reg|48 | 95|1.58|0.88|
 Ocean 1       |mohoc  |oob|68 |171|2.85|1.72|
