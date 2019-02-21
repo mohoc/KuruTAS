@@ -7,17 +7,17 @@ frame 0=select stage on world map
 [4] same time as [3] in seconds (rounded)
 [5] time actually spent in the level: from Helirin control to IGT stop (in seconds, rounded)
 [6] time spent in the level in any% (for comparison)
-_________________________________________________
-              |[0]  |[1]|[2]|[3]|[4]  |[5]  |[6] 
---------------|-----|---|---|---|-----|-----|----
-Grasslands 3  |mohoc|reg|48 |559| 9.32| 8.52|1.33
-Ocean 3       |mohoc|reg|48 |608|10.13| 9.33|6.10
-Jungle 3      |mohoc|reg|48 |345| 5.75| 4.95|2.33
-Cake Land 3   |mohoc|reg|61 |790|13.17|12.15|4.60
-Cave 3        |Matt |reg|48 |409| 6.82| 6.02|2.70
-Cloud Land 3  |mohoc|reg|57 |482| 8.03| 7.08|5.82
-Star Land 3   |mohoc|oob|51 |494| 8.23| 7.38|2.83
-Ice Land 3    |mohoc|oob|55 |544| 9.07| 8.15|3.80
-Machine Land 3|mohoc|reg|57 |883|14.72|13.77|8.70
-Ghost Castle 3|mohoc|reg|61 |830|13.83|12.82|5.55
---------------|-----|---|---|---|-----|-----|----
+___________________________________________________
+              |[0]    |[1]|[2]|[3]|[4]  |[5]  |[6] 
+--------------|-------|---|---|---|-----|-----|----
+Grasslands 3  |E-Sh4rk|reg|48 |449| 7.48| 6.68|1.33
+Ocean 3       |mohoc  |reg|48 |608|10.13| 9.33|6.10
+Jungle 3      |mohoc  |reg|48 |345| 5.75| 4.95|2.33
+Cake Land 3   |mohoc  |reg|61 |790|13.17|12.15|4.60
+Cave 3        |Matt   |reg|48 |409| 6.82| 6.02|2.70
+Cloud Land 3  |mohoc  |reg|57 |482| 8.03| 7.08|5.82
+Star Land 3   |mohoc  |oob|51 |494| 8.23| 7.38|2.83
+Ice Land 3    |mohoc  |oob|55 |544| 9.07| 8.15|3.80
+Machine Land 3|mohoc  |reg|57 |883|14.72|13.77|8.70
+Ghost Castle 3|mohoc  |reg|61 |830|13.83|12.82|5.55
+--------------|-------|---|---|---|-----|-----|----
