@@ -49,7 +49,7 @@ Cave 3        |mohoc  |oob| x | + |
 Cloud Land 1  |Matt   |reg| x |   |
 Cloud Land 2  |mohoc  |oob| x | + |there might be a faster way to go OOB with two hearts?
 Cloud Land 3  |Matt   |reg| x |   |
-Star Land 1   |Matt   |reg|(x)|   |
+Star Land 1   |E-Sh4rk|reg| x |   |
 Star Land 2   |mohoc  |oob| x | + |
 Star Land 3   |Matt   |reg| x |   |
 Ice Land 1    |Matt   |reg| x |   |
