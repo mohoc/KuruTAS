@@ -34,7 +34,7 @@ __________________________________________
               |[0]    |[1]|[2]|[3]|[4]|[5]
 --------------|-------|---|---|---|---|---
 Grasslands 1  |E-Sh4rk|reg| x |   | k |
-Grasslands 2  |mohoc  |oob| x | + |   |
+Grasslands 2  |E-Sh4rk|oob| x |   | k |
 Grasslands 3  |mohoc  |reg| x |   | k |
 Ocean 1       |mohoc  |oob| x | + |   |
 Ocean 2       |mohoc  |reg| x | + | k |
