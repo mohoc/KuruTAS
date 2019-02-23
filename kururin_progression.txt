@@ -10,7 +10,7 @@ ______________________________________
 --------------|-------|---|---|---|---
 Grasslands 3  |E-Sh4rk|reg| x | k |
 Ocean 3       |mohoc  |reg|(x)|   |
-Jungle 3      |mohoc  |reg|(x)|   |
+Jungle 3      |mohoc  |reg| x | k |
 Cake Land 3   |mohoc  |reg| x | k |
 Cave 3        |E-Sh4rk|oob| x | k |
 Cloud Land 3  |mohoc  |reg| x | k |
