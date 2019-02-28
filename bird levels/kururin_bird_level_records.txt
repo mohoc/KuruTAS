@@ -19,5 +19,5 @@ Cloud Land 3  |mohoc  |reg|57 |482| 8.03| 7.08|5.82
 Star Land 3   |mohoc  |oob|51 |494| 8.23| 7.38|2.83
 Ice Land 3    |mohoc  |oob|55 |544| 9.07| 8.15|3.80
 Machine Land 3|mohoc  |reg|57 |883|14.72|13.77|8.70
-Ghost Castle 3|mohoc  |reg|61 |830|13.83|12.82|5.55
+Ghost Castle 3|mohoc  |reg|61 |634|10.57| 9.55|5.55
 --------------|-------|---|---|---|-----|-----|----

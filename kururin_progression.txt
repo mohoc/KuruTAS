@@ -17,7 +17,7 @@ Cloud Land 3  |mohoc  |reg| x | k |
 Star Land 3   |mohoc  |oob|(x)|   |
 Ice Land 3    |mohoc  |oob| x |   |
 Machine Land 3|mohoc  |reg| x | k |
-Ghost Castle 3|mohoc  |reg|(x)|   |
+Ghost Castle 3|mohoc  |reg| x | k |
 
 
 ******************************************
