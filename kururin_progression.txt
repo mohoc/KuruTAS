@@ -9,7 +9,7 @@ ______________________________________
               |[0]    |[1]|[2]|[3]|[4]
 --------------|-------|---|---|---|---
 Grasslands 3  |E-Sh4rk|reg| x | k |
-Ocean 3       |mohoc  |reg|(x)|   |
+Ocean 3       |mohoc  |reg| x | k |
 Jungle 3      |mohoc  |reg| x | k |
 Cake Land 3   |mohoc  |reg| x | k |
 Cave 3        |E-Sh4rk|oob| x | k |
