@@ -35,7 +35,7 @@ __________________________________________
 Grasslands 1  |E-Sh4rk|reg| x | k |
 Grasslands 2  |E-Sh4rk|oob| x | k |
 Grasslands 3  |mohoc  |reg| x | k |
-Ocean 1       |mohoc  |oob| x |   |
+Ocean 1       |mohoc  |oob| x | k |
 Ocean 2       |mohoc  |reg| x | k |
 Ocean 3       |mohoc  |reg| x | k |
 Jungle 1      |mohoc  |oob| x |   |
