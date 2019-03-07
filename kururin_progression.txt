@@ -15,7 +15,7 @@ Cake Land 3   |mohoc  |reg| x | k |
 Cave 3        |E-Sh4rk|oob| x | k |
 Cloud Land 3  |mohoc  |reg| x | k |
 Star Land 3   |mohoc  |oob|(x)|   |
-Ice Land 3    |mohoc  |oob| x |   |
+Ice Land 3    |mohoc  |oob| x | k |
 Machine Land 3|mohoc  |reg| x | k |
 Ghost Castle 3|mohoc  |reg| x | k |
 
