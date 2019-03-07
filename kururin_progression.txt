@@ -61,5 +61,5 @@ Machine Land 1|mohoc  |oob| x | + |   |
 Machine Land 2|mohoc  |oob| x | + |   |
 Machine Land 3|mohoc  |oob| x | + |   |
 Ghost Castle 1|mohoc  |oob| x | + |   |
-Ghost Castle 2|mohoc  |reg| x | + |   |TODO: way to clip in corners
+Ghost Castle 2|mohoc  |reg| x |   | k |
 Ghost Castle 3|mohoc  |oob| x | + |   |there might be faster strategies
