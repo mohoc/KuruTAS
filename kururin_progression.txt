@@ -27,7 +27,7 @@ Any%
 [0] author of the strategy
 [1] strategy (reg=regular goal zone | oob=reach an OOB goal zone)
 [2] done? ("x"=done | "(x)"=done but probably improvable | " "=not done)
-[3] KuruBot used? ("k"=yes | " "=no)s
+[3] KuruBot used? ("k"=yes | " "=no | "-"=tried, without success)
 [4] comments
 __________________________________________
               |[0]    |[1]|[2]|[3]|[4]|
@@ -53,8 +53,8 @@ Cloud Land 3  |Matt   |reg| x |   |
 Star Land 1   |E-Sh4rk|reg| x | k |
 Star Land 2   |mohoc  |oob| x | k |
 Star Land 3   |Matt   |reg| x |   |
-Ice Land 1    |Matt   |reg| x |   |
-Ice Land 2    |mohoc  |reg| x |   |
+Ice Land 1    |Matt   |reg| x | - |
+Ice Land 2    |mohoc  |reg| x | k |
 Ice Land 3    |Matt   |reg| x |   |
 Machine Land 1|mohoc  |oob| x |   |
 Machine Land 2|mohoc  |oob| x |   |
