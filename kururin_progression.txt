@@ -45,7 +45,7 @@ Cake Land 1   |mohoc  |oob| x |   |
 Cake Land 2   |Matt   |reg| x |   |
 Cake Land 3   |mohoc  |oob| x |   |TODO: way to clip in corners
 Cave 1        |mohoc  |reg| x | k |
-Cave 2        |mohoc  |oob| x |   |
+Cave 2        |mohoc  |oob| x | k |
 Cave 3        |mohoc  |oob| x |   |
 Cloud Land 1  |Matt   |reg| x |   |
 Cloud Land 2  |mohoc  |oob| x |   |there might be a faster way to go OOB with two hearts?
