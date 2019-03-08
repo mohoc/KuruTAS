@@ -21,7 +21,7 @@ Jungle 3      |Matt   |reg|48 |188|3.13|2.33|
 Cake Land 1   |mohoc  |oob|68 |216|3.60|2.47|
 Cake Land 2   |Matt   |reg|55 |257|4.28|3.37|
 Cake Land 3   |mohoc  |oob|61 |337|5.62|4.60|
-Cave 1        |Matt   |reg|72 |136|2.27|1.07|
+Cave 1        |mohoc  |reg|72 |114|1.90|0.70|
 Cave 2        |mohoc  |oob|55 |371|6.18|5.27|
 Cave 3        |mohoc  |oob|48 |210|3.50|2.70|
 Cloud Land 1  |Matt   |reg|78 |388|6.47|5.17|
