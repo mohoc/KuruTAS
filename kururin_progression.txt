@@ -53,7 +53,7 @@ Cloud Land 3  |Matt   |reg| x |   |
 Star Land 1   |E-Sh4rk|reg| x | k |
 Star Land 2   |mohoc  |oob| x | k |
 Star Land 3   |Matt   |reg| x |   |
-Ice Land 1    |Matt   |reg| x | - |
+Ice Land 1    |E-Sh4rk|reg| x | k |
 Ice Land 2    |mohoc  |reg| x | k |
 Ice Land 3    |Matt   |reg| x |   |
 Machine Land 1|mohoc  |oob| x |   |
