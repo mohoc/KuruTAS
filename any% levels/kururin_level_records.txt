@@ -24,7 +24,7 @@ Cake Land 3   |mohoc  |oob|61 |337|5.62|4.60|
 Cave 1        |mohoc  |reg|72 |114|1.90|0.70|
 Cave 2        |mohoc  |oob|55 |363|6.05|5.13|
 Cave 3        |mohoc  |oob|48 |210|3.50|2.70|
-Cloud Land 1  |Matt   |reg|78 |388|6.47|5.17|
+Cloud Land 1  |mohoc  |oob|78 |307|5.12|3.82|
 Cloud Land 2  |mohoc  |oob|51 |230|3.83|2.98|
 Cloud Land 3  |Matt   |reg|57 |406|6.77|5.82|
 Star Land 1   |E-Sh4rk|reg|72 |221|3.68|2,48|
