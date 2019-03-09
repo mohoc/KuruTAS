@@ -39,7 +39,7 @@ Ocean 1       |mohoc  |oob| x | k |
 Ocean 2       |mohoc  |reg| x | k |
 Ocean 3       |mohoc  |reg| x | k |
 Jungle 1      |mohoc  |oob| x | k |
-Jungle 2      |mohoc  |oob| x |   |
+Jungle 2      |mohoc  |oob| x | k |
 Jungle 3      |Matt   |reg| x |   |
 Cake Land 1   |mohoc  |oob| x | k |
 Cake Land 2   |mohoc  |reg| x | k |
