@@ -36,7 +36,7 @@ Ice Land 3    |Matt   |reg|55 |283|4,72|3.80|
 Machine Land 1|mohoc  |oob|70 |292|4.87|3.70|
 Machine Land 2|mohoc  |oob|56 |253|4.22|3.28|
 Machine Land 3|mohoc  |oob|57 |579|9.65|8.70|
-Ghost Castle 1|mohoc  |oob|81 |412|6.87|5.52|
+Ghost Castle 1|mohoc  |oob|81 |268|4.47|3.12|
 Ghost Castle 2|mohoc  |reg|61 |160|2.67|1.65|
 Ghost Castle 3|mohoc  |oob|61 |394|6.57|5.55|
 --------------|-------|---|---|---|----|----|
