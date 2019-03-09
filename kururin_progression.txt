@@ -42,7 +42,7 @@ Jungle 1      |mohoc  |oob| x |   |
 Jungle 2      |mohoc  |oob| x |   |
 Jungle 3      |Matt   |reg| x |   |
 Cake Land 1   |mohoc  |oob| x | k |
-Cake Land 2   |Matt   |reg| x |   |
+Cake Land 2   |mohoc  |reg| x | k |
 Cake Land 3   |mohoc  |oob| x |   |TODO: way to clip in corners
 Cave 1        |mohoc  |reg| x | k |
 Cave 2        |mohoc  |oob| x | k |
