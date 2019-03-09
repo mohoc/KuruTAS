@@ -57,7 +57,7 @@ Ice Land 1    |E-Sh4rk|reg| x | k |
 Ice Land 2    |mohoc  |reg| x | k |
 Ice Land 3    |Matt   |reg| x |   |
 Machine Land 1|mohoc  |oob| x | k |
-Machine Land 2|mohoc  |oob| x |   |
+Machine Land 2|mohoc  |oob| x | k |
 Machine Land 3|mohoc  |oob| x |   |
 Ghost Castle 1|mohoc  |oob| x | k |
 Ghost Castle 2|mohoc  |reg| x | k |
