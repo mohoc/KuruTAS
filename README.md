@@ -5,6 +5,7 @@ Emulator: Bizhawk 2.3.1
 
 Core: mGBA
 
+Authors: mohoc & E-Sh4rk
 ******************************************
 
 Shoutouts to Matt Shepcar for being a huge source of inspiration for wall clipping with his "cheat bot" partial run: https://www.youtube.com/watch?v=DXB5DTYUei4
