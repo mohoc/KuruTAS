@@ -109,6 +109,17 @@ Transitions:
   - level 3 (no bird): 371 frames = 6.18s (x9)
   - level 3 (w/ bird): 416 frames = 6.93s
 ******************************************
+Levels with long off-camera parts:
+Jungle 1
+Cave 2
+Cloud Land 1
+Cloud Land 2
+Star Land 2
+(Ice Land 3)
+Machine Land 1
+Machine Land 2
+Ghost Castle 1
+******************************************
 Starting info:
 
 1 direction of the opening
