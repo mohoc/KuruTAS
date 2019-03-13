@@ -1,0 +1,45 @@
+Total time: 21978 frames = 6:06.30
+With speedrun.com timing: 21595 frames = 5:59.92
+******************************************
+[0] author of the strategy
+[1] strategy (reg=regular goal zone | oob=reach an OOB goal zone)
+
+frame 0=select stage on world map
+[2] time at Helirin control
+[3] time when Kururin looks happy (=when IGT stops)
+[4] same time as [3] in seconds (rounded)
+[5] time actually spent in the level: from Helirin control to IGT stop (in seconds, rounded)
+_______________________________________________
+              |[0]    |[1]|[2]|[3]|[4]  |[5]  |
+--------------|-------|---|---|---|-----|-----|
+Grasslands 1  |E-Sh4rk|reg|68 |185| 3.08| 1.95|
+Grasslands 2  |mohoc  |oob|42 |154| 2.57| 1.87|
+Grasslands 3  |mohoc  |reg|48 |559| 9.32| 8.52|
+Ocean 1       |mohoc  |oob|68 |171| 2.85| 1.72|
+Ocean 2       |Matt   |reg|47 |209| 3.48| 2.70|
+Ocean 3       |mohoc  |reg|48 |608|10.13| 9.33|
+Jungle 1      |mohoc  |oob|74 |243| 4.05| 2.82|
+Jungle 2      |mohoc  |oob|44 |157| 2.62| 1.88|
+Jungle 3      |mohoc  |reg|48 |345| 5.75| 4.95|
+Cake Land 1   |mohoc  |oob|68 |216| 3.60| 2.47|
+Cake Land 2   |Matt   |reg|55 |257| 4.28| 3.37|
+Cake Land 3   |mohoc  |reg|61 |790|13.17|12.15|
+Cave 1        |Matt   |reg|72 |136| 2.27| 1.07|
+Cave 2        |mohoc  |oob|55 |371| 6.18| 5.27|
+Cave 3        |Matt   |reg|48 |409| 6.82| 6.02|
+Cloud Land 1  |Matt   |reg|78 |388| 6.47| 5.17|
+Cloud Land 2  |mohoc  |oob|51 |277| 4.62| 3.77|
+Cloud Land 3  |mohoc  |reg|57 |532| 8.87| 7.92|
+Star Land 1   |Matt   |reg|72 |235| 3.92| 2,72|
+Star Land 2   |mohoc  |oob|41 |181| 3.02| 2.33|
+Star Land 3   |mohoc  |oob|51 |494| 8.23| 7.38|
+Ice Land 1    |Matt   |reg|75 |299| 4.98| 3.73|
+Ice Land 2    |mohoc  |reg|48 |109| 1.82| 1.02|
+Ice Land 3    |mohoc  |oob|55 |544| 9.07| 8.15|
+Machine Land 1|mohoc  |oob|70 |292| 4.87| 3.70|
+Machine Land 2|mohoc  |oob|56 |253| 4.22| 3.28|
+Machine Land 3|mohoc  |reg|57 |991|16.52|15.57|
+Ghost Castle 1|mohoc  |oob|81 |412| 6.87| 5.52|
+Ghost Castle 2|mohoc  |reg|61 |205| 3.42| 2.40|
+Ghost Castle 3|mohoc  |reg|61 |830|13.83|12.82|
+--------------|-------|---|---|---|-----|-----|
