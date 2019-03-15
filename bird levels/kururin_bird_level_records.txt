@@ -13,7 +13,7 @@ ___________________________________________________
 Grasslands 3  |E-Sh4rk|reg|48 |449| 7.48| 6.68|1.33
 Ocean 3       |mohoc  |reg|48 |428| 7.13| 6.33|3.58
 Jungle 3      |mohoc  |reg|48 |240| 4.00| 3.20|2.33
-Cake Land 3   |mohoc  |reg|61 |640|10.67| 9.65|4.60
+Cake Land 3   |mohoc  |reg|61 |628|10.47| 9.45|4.60
 Cave 3        |E-Sh4rk|oob|48 |285| 4.75| 3.95|2.70
 Cloud Land 3  |mohoc  |reg|57 |482| 8.03| 7.08|5.82
 Star Land 3   |mohoc  |oob|51 |409| 6.82| 5.97|2.83
