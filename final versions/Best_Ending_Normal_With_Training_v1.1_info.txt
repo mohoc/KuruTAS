@@ -1,4 +1,4 @@
-Total time: 22723 frames = 6:18.72
+Total time: 22719 frames = 6:18.65
 ******************************************
 [0] author of the strategy
 [1] strategy (reg=regular goal zone | oob=reach an OOB goal zone)
