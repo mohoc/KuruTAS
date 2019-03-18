@@ -75,8 +75,8 @@ note: with reverse moves: [-1,  2] using 4 frames
 note: there is a similar method for Y
 *
 DR2+UR2 [+4, 62]
-L1      [=2, 64]
-=> [+1,254] using 3 frames
+L1      [-2, 64]
+=> [+1,254] using 3 frames (nearly 2 whole pixels)
 ******************************************
 Methods to adjust X subpixel:
 DL0+UL0 [-2,31]
@@ -106,19 +106,8 @@ Transitions:
   - beginning (w/ guest file): 551 frames = 9.18s
     (if start after GB intro: 206 frames = 3.43s)
   - level 1/2: 324 frames = 5.40s (x20)
-  - level 3 (no bird): 371 frames = 6.18s (x9)
-  - level 3 (w/ bird): 416 frames = 6.93s
-******************************************
-Levels with long off-camera parts:
-Jungle 1
-Cave 2
-Cloud Land 1
-Cloud Land 2
-Star Land 2
-(Ice Land 3)
-Machine Land 1
-Machine Land 2
-Ghost Castle 1
+  - level 3 (no bird): 371 frames = 6.18s
+  - level 3 (w/ bird): 416 frames = 6.93s (x9)
 ******************************************
 Starting info:
 
