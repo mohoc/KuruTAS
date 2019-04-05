@@ -9,96 +9,96 @@ ____________________________________________
               |[0]    |[1]|[2] |[3]  |[4]  |
 --------------|-------|---|----|-----|-----|
 Training 1    |Matt   | 89| 229| 3.82| 2.33|
-Training 2    |       |   |    |     |     |
-Training 3    |       |   |    |     |     |
-Training 4    |       |   |    |     |     |
-Training 5    |       |   |    |     |     |
-Grasslands 1  |       |   |    |     |     |
-Grasslands 2  |       |   |    |     |     |
-Grasslands 3  |       |   |    |     |     |
-Ocean 1       |       |   |    |     |     |
-Ocean 2       |       |   |    |     |     |
-Ocean 3       |       |   |    |     |     |
-Jungle 1      |       |   |    |     |     |
-Jungle 2      |       |   |    |     |     |
-Jungle 3      |       |   |    |     |     |
-Cake Land 1   |       |   |    |     |     |
-Cake Land 2   |       |   |    |     |     |
-Cake Land 3   |       |   |    |     |     |
-Cave 1        |       |   |    |     |     |
-Cave 2        |       |   |    |     |     |
-Cave 3        |       |   |    |     |     |
-Cloud Land 1  |       |   |    |     |     |
-Cloud Land 2  |       |   |    |     |     |
-Cloud Land 3  |       |   |    |     |     |
-Star Land 1   |       |   |    |     |     |
-Star Land 2   |       |   |    |     |     |
-Star Land 3   |       |   |    |     |     |
-Ice Land 1    |       |   |    |     |     |
-Ice Land 2    |       |   |    |     |     |
-Ice Land 3    |       |   |    |     |     |
-Machine Land 1|       |   |    |     |     |
-Machine Land 2|       |   |    |     |     |
-Machine Land 3|       |   |    |     |     |
-Ghost Castle 1|       |   |    |     |     |
-Ghost Castle 2|       |   |    |     |     |
-Ghost Castle 3|       |   |    |     |     |
-Last Land 1   |       |   |    |     |     |
-Last Land 2   |       |   |    |     |     |
-Last Land 3   |       |   |    |     |     |
-Challenge 1-1 |       |   |    |     |     |
-Challenge 1-2 |       |   |    |     |     |
-Challenge 1-3 |       |   |    |     |     |
-Challenge 1-4 |       |   |    |     |     |
-Challenge 1-5 |       |   |    |     |     |
-Challenge 2-1 |       |   |    |     |     |
-Challenge 2-2 |       |   |    |     |     |
-Challenge 2-3 |       |   |    |     |     |
-Challenge 2-4 |       |   |    |     |     |
-Challenge 2-5 |       |   |    |     |     |
-Challenge 3-1 |       |   |    |     |     |
-Challenge 3-2 |       |   |    |     |     |
-Challenge 3-3 |       |   |    |     |     |
-Challenge 3-4 |       |   |    |     |     |
-Challenge 3-5 |       |   |    |     |     |
-Challenge 4-1 |       |   |    |     |     |
-Challenge 4-2 |       |   |    |     |     |
-Challenge 4-3 |       |   |    |     |     |
-Challenge 4-4 |       |   |    |     |     |
-Challenge 4-5 |       |   |    |     |     |
-Challenge 5-1 |       |   |    |     |     |
-Challenge 5-2 |       |   |    |     |     |
-Challenge 5-3 |       |   |    |     |     |
-Challenge 5-4 |       |   |    |     |     |
-Challenge 5-5 |       |   |    |     |     |
-Challenge 6-1 |       |   |    |     |     |
-Challenge 6-2 |       |   |    |     |     |
-Challenge 6-3 |       |   |    |     |     |
-Challenge 6-4 |       |   |    |     |     |
-Challenge 6-5 |       |   |    |     |     |
-Challenge 7-1 |       |   |    |     |     |
-Challenge 7-2 |       |   |    |     |     |
-Challenge 7-3 |       |   |    |     |     |
-Challenge 7-4 |       |   |    |     |     |
-Challenge 7-5 |       |   |    |     |     |
-Challenge 8-1 |       |   |    |     |     |
-Challenge 8-2 |       |   |    |     |     |
-Challenge 8-3 |       |   |    |     |     |
-Challenge 8-4 |       |   |    |     |     |
-Challenge 8-5 |       |   |    |     |     |
-Challenge 9-1 |       |   |    |     |     |
-Challenge 9-2 |       |   |    |     |     |
-Challenge 9-3 |       |   |    |     |     |
-Challenge 9-4 |       |   |    |     |     |
-Challenge 9-5 |       |   |    |     |     |
-Challenge 10-1|       |   |    |     |     |
-Challenge 10-2|       |   |    |     |     |
-Challenge 10-3|       |   |    |     |     |
-Challenge 10-4|       |   |    |     |     |
-Challenge 10-5|       |   |    |     |     |
-Challenge 11-1|       |   |    |     |     |
-Challenge 11-2|       |   |    |     |     |
-Challenge 11-3|       |   |    |     |     |
-Challenge 11-4|       |   |    |     |     |
-Challenge 11-5|       |   |    |     |     |
+Training 2    |       | 89|    |     |     |
+Training 3    |       | 89|    |     |     |
+Training 4    |       | 86|    |     |     |
+Training 5    |       | 89|    |     |     |
+Grasslands 1  |       | 68|    |     |     |
+Grasslands 2  |       | 42|    |     |     |
+Grasslands 3  |       | 48|    |     |     |
+Ocean 1       |       | 68|    |     |     |
+Ocean 2       |       | 47|    |     |     |
+Ocean 3       |       | 48|    |     |     |
+Jungle 1      |       | 74|    |     |     |
+Jungle 2      |       | 44|    |     |     |
+Jungle 3      |       | 48|    |     |     |
+Cake Land 1   |       | 68|    |     |     |
+Cake Land 2   |       | 55|    |     |     |
+Cake Land 3   |       | 61|    |     |     |
+Cave 1        |       | 70|    |     |     |
+Cave 2        |       | 55|    |     |     |
+Cave 3        |       | 48|    |     |     |
+Cloud Land 1  |       | 78|    |     |     |
+Cloud Land 2  |       | 51|    |     |     |
+Cloud Land 3  |       | 57|    |     |     |
+Star Land 1   |       | 72|    |     |     |
+Star Land 2   |       | 41|    |     |     |
+Star Land 3   |       | 51|    |     |     |
+Ice Land 1    |       | 75|    |     |     |
+Ice Land 2    |       | 48|    |     |     |
+Ice Land 3    |       | 55|    |     |     |
+Machine Land 1|       | 70|    |     |     |
+Machine Land 2|       | 56|    |     |     |
+Machine Land 3|       | 57|    |     |     |
+Ghost Castle 1|       | 81|    |     |     |
+Ghost Castle 2|       | 61|    |     |     |
+Ghost Castle 3|       | 61|    |     |     |
+Last Land 1   |       | 55|    |     |     |
+Last Land 2   |       | 55|    |     |     |
+Last Land 3   |       | 56|    |     |     |
+Challenge 1-1 |       | 32|    |     |     |
+Challenge 1-2 |       | 34|    |     |     |
+Challenge 1-3 |       | 32|    |     |     |
+Challenge 1-4 |       | 32|    |     |     |
+Challenge 1-5 |       | 34|    |     |     |
+Challenge 2-1 |       | 34|    |     |     |
+Challenge 2-2 |       | 32|    |     |     |
+Challenge 2-3 |       | 32|    |     |     |
+Challenge 2-4 |       | 32|    |     |     |
+Challenge 2-5 |       | 32|    |     |     |
+Challenge 3-1 |       | 34|    |     |     |
+Challenge 3-2 |       | 34|    |     |     |
+Challenge 3-3 |       | 32|    |     |     |
+Challenge 3-4 |       | 34|    |     |     |
+Challenge 3-5 |       | 34|    |     |     |
+Challenge 4-1 |       | 34|    |     |     |
+Challenge 4-2 |       | 32|    |     |     |
+Challenge 4-3 |       | 34|    |     |     |
+Challenge 4-4 |       | 32|    |     |     |
+Challenge 4-5 |       | 32|    |     |     |
+Challenge 5-1 |       | 34|    |     |     |
+Challenge 5-2 |       | 32|    |     |     |
+Challenge 5-3 |       | 34|    |     |     |
+Challenge 5-4 |       | 34|    |     |     |
+Challenge 5-5 |       | 32|    |     |     |
+Challenge 6-1 |       | 32|    |     |     |
+Challenge 6-2 |       | 32|    |     |     |
+Challenge 6-3 |       | 32|    |     |     |
+Challenge 6-4 |       | 34|    |     |     |
+Challenge 6-5 |       | 32|    |     |     |
+Challenge 7-1 |       | 34|    |     |     |
+Challenge 7-2 |       | 32|    |     |     |
+Challenge 7-3 |       | 32|    |     |     |
+Challenge 7-4 |       | 32|    |     |     |
+Challenge 7-5 |       | 32|    |     |     |
+Challenge 8-1 |       | 34|    |     |     |
+Challenge 8-2 |       | 34|    |     |     |
+Challenge 8-3 |       | 36|    |     |     |
+Challenge 8-4 |       | 34|    |     |     |
+Challenge 8-5 |       | 34|    |     |     |
+Challenge 9-1 |       | 34|    |     |     |
+Challenge 9-2 |       | 34|    |     |     |
+Challenge 9-3 |       | 34|    |     |     |
+Challenge 9-4 |       | 34|    |     |     |
+Challenge 9-5 |       | 32|    |     |     |
+Challenge 10-1|       | 34|    |     |     |
+Challenge 10-2|       | 34|    |     |     |
+Challenge 10-3|       | 34|    |     |     |
+Challenge 10-4|       | 32|    |     |     |
+Challenge 10-5|       | 34|    |     |     |
+Challenge 11-1|       | 34|    |     |     |
+Challenge 11-2|       | 34|    |     |     |
+Challenge 11-3|       | 34|    |     |     |
+Challenge 11-4|       | 35|    |     |     |
+Challenge 11-5|       | 32|    |     |     |
 --------------|-------|---|----|-----|-----|
