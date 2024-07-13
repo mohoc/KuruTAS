@@ -1,3 +1,6 @@
+Obsolete. Check this Google sheet instead:
+https://docs.google.com/spreadsheets/d/1LTRG3CHAHxNLkfTIGDl01C5PZYZocqNLeYxwAgDcdZM/edit?usp=sharing
+
 [0] author
 
 frame 0=select stage on world map
