@@ -1,5 +1,6 @@
-Total time: 18345 frames = 5:05.75
-With speedrun.com timing: 17876 frames = 4:57.93
+Total time: 18345 frames = 5:07.14
+With speedrun.com timing: 17876 frames = 4:59.29
+Emulator used: Bizhawk 2.3.1 with mGBA core
 Known potential improvements at the time:
   - Ocean 2: 11 frames
   - Star Land 1: 3 frames

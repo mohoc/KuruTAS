@@ -1,4 +1,5 @@
-Total time: 22719 frames = 6:18.65
+Total time: 22719 frames = 6:20.38
+Emulator used: Bizhawk 2.3.1 with mGBA core
 ******************************************
 [0] author of the strategy
 [1] strategy (reg=regular goal zone | oob=reach an OOB goal zone)

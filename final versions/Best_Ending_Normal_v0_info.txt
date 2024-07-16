@@ -1,5 +1,6 @@
-Total time: 21978 frames = 6:06.30
-With speedrun.com timing: 21595 frames = 5:59.92
+Total time: 21978 frames = 6:07.97
+With speedrun.com timing: 21595 frames = 6:01.56
+Emulator used: Bizhawk 2.3.1 with mGBA core
 ******************************************
 [0] author of the strategy
 [1] strategy (reg=regular goal zone | oob=reach an OOB goal zone)
