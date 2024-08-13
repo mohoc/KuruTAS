@@ -1,0 +1,4 @@
+Total time: 85527 frames = 23:51.95
+Emulator used: Bizhawk 2.9.1 with mGBA core
+Detailed time breakdown:
+https://docs.google.com/spreadsheets/d/1LTRG3CHAHxNLkfTIGDl01C5PZYZocqNLeYxwAgDcdZM/edit?gid=65067214#gid=65067214
